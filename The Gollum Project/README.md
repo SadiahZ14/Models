@@ -8,9 +8,9 @@
 This model is a fine-tuned version of the LLAMA-2 7B model, specifically trained to generate responses with a tonality similar to the character Gollum from J.R.R. Tolkien's "The Lord of the Rings" series. The model has been fine-tuned using a dataset of Gollum's dialogue and text samples to capture his unique speaking style, mannerisms, and personality.
 
 ## Model Details
-* **Base Model**: "NousResearch/Llama-2-7b-chat-hf"
+* **Base Model**: `NousResearch/Llama-2-7b-chat-hf`
 * **Fine-Tuning Dataset**: Custom dataset of Gollum's dialogue and text samples.
-* **Fine-Tuning Approach**: PEFT (LoRA) and SFT Trainer.
+* **Fine-Tuning Approach**: PEFT `LoRA` and SFT Trainer.
 * **Model Size**: The model retains the same size and architecture as the original LLaMA model.
 
 ## Intended Use
