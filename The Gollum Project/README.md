@@ -1,3 +1,9 @@
+---
+license: cc-by-nc-4.0
+datasets: Sadiah/Gollum
+language: en
+library_name: transformers
+---
 # Gollum Tonality Fine-Tuned LLaMA-2 Model
 
 <img src="https://cdn-uploads.huggingface.co/production/uploads/6564e76de6b20bc37e494589/wcj1pIDVKbhkyi_DBdAPV.png" width="600" alt="Gollum Tonality Fine-Tuned LLAMA-2 7B Model inference code">
