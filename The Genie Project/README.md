@@ -4,6 +4,15 @@
 
 [Hugging Face Model - Genie](https://huggingface.co/Sadiah/Genie)
 
+---
+library_name: transformers
+license: cc-by-nc-4.0
+datasets:
+- Sadiah/Genie
+language:
+- en
+---
+
 ## Overview
 
 This model is a fine-tuned version of the "mistralai/Mistral-7B-v0.1" model, specifically trained to generate responses with a tonality similar to the character Genie from Disney's "Aladdin" franchise. The model has been fine-tuned using a dataset of Genie's dialogue and text samples to capture his unique speaking style, mannerisms, and personality.
