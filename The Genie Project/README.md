@@ -1,7 +1,9 @@
 # Genie Tonality Fine-Tuned Mistral 7B Model
 
 <img src="https://cdn-uploads.huggingface.co/production/uploads/6564e76de6b20bc37e494589/_7MRpFY2lpc4aGQPybqU_.png" width="600" alt="Genie Tonality Fine-Tuned Mixtral-8x7B Model overview">
+
 [Hugging Face Model - Genie](https://huggingface.co/Sadiah/Genie)
+
 ## Overview
 
 This model is a fine-tuned version of the "mistralai/Mistral-7B-v0.1" model, specifically trained to generate responses with a tonality similar to the character Genie from Disney's "Aladdin" franchise. The model has been fine-tuned using a dataset of Genie's dialogue and text samples to capture his unique speaking style, mannerisms, and personality.
