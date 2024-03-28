@@ -1,17 +1,14 @@
+---
+library_name: transformers
+license: cc-by-nc-4.0
+datasets: Sadiah/Genie
+language: en
+---
 # Genie Tonality Fine-Tuned Mistral 7B Model
 
 <img src="https://cdn-uploads.huggingface.co/production/uploads/6564e76de6b20bc37e494589/_7MRpFY2lpc4aGQPybqU_.png" width="600" alt="Genie Tonality Fine-Tuned Mixtral-8x7B Model overview">
 
 [Hugging Face Model - Genie](https://huggingface.co/Sadiah/Genie)
-
----
-library_name: transformers
-license: cc-by-nc-4.0
-datasets:
-- Sadiah/Genie
-language:
-- en
----
 
 ## Overview
 
